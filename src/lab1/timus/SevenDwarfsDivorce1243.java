@@ -1,4 +1,4 @@
-package timus;
+package lab1.timus;
 
 import java.util.Scanner;
 
