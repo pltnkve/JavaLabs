@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<company>
+            
+    
+    <employee>
+                        
+        
+        <name>Степан Мышкин</name>
+                        
+        
+        <position>Frontend-разработчик</position>
+                        
+        
+        <department>IT</department>
+                        
+        
+        <salary>100000</salary>
+                    
+    
+    </employee>
+            
+    
+    <employee>
+                        
+        
+        <name>Олег Завозов</name>
+                        
+        
+        <position>Бизнес-аналитик</position>
+                        
+        
+        <department>Аналитика</department>
+                        
+        
+        <salary>80000</salary>
+                    
+    
+    </employee>
+            
+    
+    <employee>
+                        
+        
+        <name>Вячеслав Золотов</name>
+                        
+        
+        <position>CEO</position>
+                        
+        
+        <department>Руководство</department>
+                        
+        
+        <salary>500000</salary>
+                    
+    
+    </employee>
+            
+    
+    <employee>
+                        
+        
+        <name>Викторина Рамкина</name>
+                        
+        
+        <position>QA</position>
+                        
+        
+        <department>Тестирование</department>
+                        
+        
+        <salary>60000</salary>
+                    
+    
+    </employee>
+        
+    
+
+</company>
